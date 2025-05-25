@@ -1,3 +1,3 @@
 # Hello Guys
 
-My name's GitWrite
+My name's GitWrite.
