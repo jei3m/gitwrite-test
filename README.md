@@ -14,4 +14,4 @@ My name's GitWrite.
 - asd
 - asd
 
-*Testing.*
+This README is made possible by [GitWrite](https://github.com/jei3m/git-write).
